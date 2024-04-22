@@ -1,0 +1,125 @@
+{
+    "services": [
+      {
+        "title": "Residential Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBulPWZq2761IC3-55Z50Ye09ITtk3-8mso6eMeSOQA&s",
+        "details": "Regular and deep cleaning services for houses and apartments. Includes dusting, vacuuming, mopping floors, cleaning kitchens, bathrooms, bedrooms, and living areas. Specialized services such as carpet cleaning, window washing, and upholstery cleaning available.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "01"
+      },
+      {
+        "title": "Commercial Cleaning",
+        "logo": "https://integrityjanitorialcleaning.com/wp-content/uploads/2023/06/AdobeStock_331708000.jpeg",
+        "details": "Customized cleaning services for businesses, offices, and commercial properties. Includes office cleaning, retail space cleaning, janitorial services, and maintenance of common areas. Tailored solutions for schools, gyms, medical facilities, and more.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "02"
+      },
+      {
+        "title": "Specialized Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJavGWTrQilCsX_Cnzmm2FRId0rtQQp7bd6gf2CFC3A&s",
+        "details": "Specialized cleaning solutions for unique needs. Services include post-construction cleaning, industrial cleaning, and biohazard cleanup. Experienced team equipped to handle challenging situations with professionalism and efficiency.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "03"
+      },
+      {
+        "title": "Event Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWdkWGjkEAtHbB9zlTabDcEN32BpSDAyMD1xw726PlQ&s",
+        "details": "Pre-event, during-event, and post-event cleaning services for various occasions. Ensure venues are clean and presentable for weddings, parties, conferences, and other events. Prompt and thorough cleaning to maintain a positive experience for attendees.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "04"
+      },
+      {
+        "title": "Outdoor Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6PmIG6GCKC4zXnk3BtzxAaL1Xe6ZTjKGu3alH5cFCjQ&s",
+        "details": "Exterior cleaning services to enhance outdoor spaces. Includes pressure washing for sidewalks, driveways, decks, and fences. Also provides gutter cleaning and patio/outdoor furniture cleaning to keep outdoor areas tidy and inviting.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "05"
+      },
+      {
+        "title": "Specialty Services",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJavGWTrQilCsX_Cnzmm2FRId0rtQQp7bd6gf2CFC3A&s",
+        "details": "Specialized services including green cleaning options, organization and decluttering services, and hoarding cleanup. Prioritize environmentally friendly practices and sensitive handling of unique situations.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "06"
+      },
+      {
+        "title": "Emergency Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WqBy7hR6uayUxQE7jQ713ECAzlYZrCEpe9DNKE3rHA&s",
+        "details": "24/7 emergency response for water damage cleanup, biohazard cleanup, and urgent cleaning needs. Rapid response team equipped to handle accidents, vandalism, and other unexpected events with efficiency and care.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "07"
+      },
+      {
+        "title": "Fleet Cleaning Services",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgT0whLL9-JWcSIi8nZ04keGi8FF1mlaM9Uml3a3UqHQ&s",
+        "details": "Cleaning services tailored for fleets of vehicles including cars, vans, trucks, and buses. Exterior and interior cleaning to maintain a clean and comfortable environment for drivers and passengers.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "08"
+      },
+      {
+        "title": "Hotel and Hospitality Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1H-hCi0XUvNqCn9UD3T9QVlylliPBa6kwzwlQR1YGMg&s",
+        "details": "Comprehensive cleaning services for hotels, resorts, and hospitality businesses. Daily housekeeping, deep cleaning of guest rooms and common areas, and specialized cleaning for lobbies, restaurants, and spas.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "09"
+      },
+      {
+        "title": "Educational Facility Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWBbueRVUtyKjoQ8frPhx1tvGuTXWKxOTpdw1sUAWFw&s",
+        "details": "Cleaning services for schools, colleges, and educational institutions. Disinfection of classrooms, libraries, cafeterias, and other areas to maintain clean and hygienic learning environments.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "10"
+      },
+      {
+        "title": "Eco-Friendly Cleaning Options",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbLhWZ7pjDTJmp-yAXJzwDeH7a-ANvK_u4PDdKw3nZA&s",
+        "details": "Green cleaning services using non-toxic, biodegradable products and sustainable practices. Energy-efficient cleaning methods and waste management services to minimize environmental impact.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "11"
+      },
+      {
+        "title": "Real Estate Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAHz3ZHdIiMNaqNULvA4eG-fhgNKB6ZPJlWwiWTvi57g&s",
+        "details": "Cleaning services for real estate properties including pre-listing cleaning, post-construction cleaning, and move-in/move-out cleaning. Prepare homes for sale and ensure properties are clean and ready for occupancy.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "12"
+      },
+      {
+        "title": "Healthcare Facility Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkFhxrkczdbWoCWzjn459YzHIpR0a83zUvqusQtXUpg&s",
+        "details": "Specialized cleaning services for medical facilities, clinics, and hospitals. Disinfection of patient rooms, waiting areas, and medical equipment to prevent the spread of infections and ensure compliance with healthcare standards.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "13"
+      },
+      {
+        "title": "Restaurant and Food Service Cleaning",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5A_JxS8PEcpDbpyjwuYgdA_jF82wAOU7Y2bzWqHwQ7g&s",
+        "details": "Cleaning services tailored for restaurants, cafes, and food service businesses. Kitchen cleaning, deep cleaning of dining areas and restrooms, and grease trap cleaning to ensure food safety and compliance with health regulations.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "14"
+      },
+      {
+        "title": "Seasonal Cleaning Services",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHNyAeCyK6g64t97_VbXY61Av19GdhQmoZUF9d6hJsQ&s",
+        "details": "Specialized cleaning services for different seasons. Includes spring cleaning, fall cleaning, and holiday cleaning to refresh properties and maintain cleanliness throughout the year.",
+        "price": "700",
+        "ratings": "3.5",
+        "id": "15"
+      }
+    ]
+  }
+  
